@@ -1,0 +1,24 @@
+{
+  "name": "react-site-builder",
+  "homepage": "https://github.com/ridhishjain/react-site-builder",
+  "authors": [
+    "Ridhish Jain"
+  ],
+  "description": "A Basic React Site Layout, editable to crreate new websites",
+  "main": "dist/index.js",
+  "keywords": [
+    "material",
+    "design",
+    "material-ui",
+    "google",
+    "twitter"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "private": true
+}
