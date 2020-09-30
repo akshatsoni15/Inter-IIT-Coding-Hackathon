@@ -1,1 +1,1 @@
-# Inter IIT Coding 
+# Inter IIT Coding Hackathon
